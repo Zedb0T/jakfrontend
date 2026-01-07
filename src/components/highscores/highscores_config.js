@@ -3,6 +3,10 @@ export const highscoresConfig = {
     {
       name: "Fish",
       id: 1
+    },
+    {
+      name: "Crateopia",
+      id: 23
     }
   ],
   "jak2": [
@@ -94,3 +98,4 @@ export const highscoresConfig = {
     }
   ]
 }
+
