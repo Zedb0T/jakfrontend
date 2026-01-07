@@ -5,7 +5,7 @@ export const highscoresConfig = {
       id: 1
     },
     {
-      name: "Crateopia",
+      name: "Cratetopia",
       id: 23
     }
   ],
@@ -98,4 +98,5 @@ export const highscoresConfig = {
     }
   ]
 }
+
 
